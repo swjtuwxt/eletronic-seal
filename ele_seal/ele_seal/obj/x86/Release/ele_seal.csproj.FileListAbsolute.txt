@@ -1,0 +1,9 @@
+E:\SRTP\ele_seal\ele_seal\bin\x86\Release\ele_seal.exe.config
+E:\SRTP\ele_seal\ele_seal\bin\x86\Release\ele_seal.exe
+E:\SRTP\ele_seal\ele_seal\bin\x86\Release\ele_seal.pdb
+E:\SRTP\ele_seal\ele_seal\obj\x86\Release\ele_seal.csprojAssemblyReference.cache
+E:\SRTP\ele_seal\ele_seal\obj\x86\Release\ele_seal.Form1.resources
+E:\SRTP\ele_seal\ele_seal\obj\x86\Release\ele_seal.Properties.Resources.resources
+E:\SRTP\ele_seal\ele_seal\obj\x86\Release\ele_seal.csproj.GenerateResource.cache
+E:\SRTP\ele_seal\ele_seal\obj\x86\Release\ele_seal.exe
+E:\SRTP\ele_seal\ele_seal\obj\x86\Release\ele_seal.pdb
